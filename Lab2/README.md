@@ -1,4 +1,4 @@
-# the-simpsons-characters-recognition-challenge-iii-310706038
+# Simpsons Characters Recognition
 
 # 作法說明
 
